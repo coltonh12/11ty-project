@@ -1,4 +1,7 @@
 /* Add screen styles below */
 body {
     background-color: grey;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
 }
