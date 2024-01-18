@@ -6,7 +6,8 @@ body, h1, p, div, a, img {
 }
 body {
     background-color: grey;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin; 0 auto;
 }
