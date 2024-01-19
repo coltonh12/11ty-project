@@ -26,3 +26,7 @@ img[alt="moon"] {
     width: 200px;
     margin-left: 20px;
 }
+.container {
+    display: flex;
+    margin: 20px;
+}
