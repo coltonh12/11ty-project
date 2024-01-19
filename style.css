@@ -21,3 +21,8 @@ p {
     width: 800px;
     margin: 20px;
 }
+img[alt="moon"] {
+    border: 2px solid black;
+    width: 200px;
+    margin-left: 20px;
+}
